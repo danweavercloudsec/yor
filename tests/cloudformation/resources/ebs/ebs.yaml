@@ -12,6 +12,8 @@ Resources:
           Value: TagValue
         - Key: Name
           Value: !Ref EnvironmentName
+        - Key: yor_trace
+          Value: 94c2c7b0-a31c-413d-8772-57b18f59bd1b
       AvailabilityZone: us-west-2a
     DeletionPolicy: Snapshot
 

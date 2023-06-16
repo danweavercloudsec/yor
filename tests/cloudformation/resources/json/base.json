@@ -13,6 +13,10 @@
           {
             "Key": "old_tag",
             "Value": "old_value"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "c67fcc99-b6c7-43e5-8613-675b9716d94d"
           }
         ]
       },

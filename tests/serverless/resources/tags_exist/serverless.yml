@@ -16,6 +16,7 @@ functions:
     tags:
       TAG1_FUNC: Func1 Tag Value
       TAG2_FUNC: Func1 Tag2 Value
+      yor_trace: 65d5991d-5fb0-4cdd-9962-6261ed104159
     name: myFunction
   myFunction2:
     name: myFunction2
@@ -23,6 +24,7 @@ functions:
     tags:
       TAG1_FUNC: Func2 Tag Value
       TAG2_FUNC: Func2 Tag2 Value
+      yor_trace: f5a5497b-e1a5-4ba9-ae34-f29b08b27cad
 
 resources: # CloudFormation template syntax
   Resources:

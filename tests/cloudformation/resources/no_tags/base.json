@@ -4,6 +4,12 @@
     "S3Bucket": {
       "Type": "AWS::S3::Bucket",
       "Properties": {
+        "Tags": [
+          {
+            "Key": "yor_trace",
+            "Value": "09348f8d-34ba-4392-a459-d38245588f4c"
+          }
+        ],
         "AccessControl": "PublicRead",
         "WebsiteConfiguration": {
           "IndexDocument": "index.html",
