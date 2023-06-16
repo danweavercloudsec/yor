@@ -33,6 +33,10 @@
           {
            "Key": "another_tag",
            "Value": "another_val"
+          },
+          {
+           "Key": "yor_trace",
+           "Value": "e31ff48d-8c23-462a-893a-fd26a78d55df"
           }
         ]
       }

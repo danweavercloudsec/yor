@@ -8,4 +8,6 @@ Resources:
       Tags:
         - Key: "isSpecial"
           Value: "true"
+        - Key: yor_trace
+          Value: 6dc518a5-79b3-41c8-b879-7b33e6163e26
       ResourceType: AWS::ElasticLoadBalancingV2::LoadBalancer

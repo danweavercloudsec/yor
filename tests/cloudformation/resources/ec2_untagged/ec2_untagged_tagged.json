@@ -8,6 +8,10 @@
           {
             "Key": "new_tag",
             "Value": "new_value"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "f737343e-a1bb-4fa6-8753-98d2468fa8d2"
           }
         ],
         "ImageId": "ami-04169656fea786776"
@@ -20,6 +24,10 @@
           {
             "Key": "new_tag",
             "Value": "new_value"
+          },
+          {
+            "Key": "yor_trace",
+            "Value": "973493ed-c66e-4bae-bd78-d3193440b579"
           }
         ],
         "ImageId": "ami-04169656fea786776",

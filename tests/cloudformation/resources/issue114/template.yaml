@@ -25,9 +25,13 @@ Resources:
       Tags:
         - Key: Name
           Value: !Ref EnvironmentName
+        - Key: yor_trace
+          Value: 00df030f-801c-4bf1-8d84-125cbf108a90
   InternetGateway:
     Type: AWS::EC2::InternetGateway
     Properties:
       Tags:
         - Key: Name
           Value: !Ref EnvironmentName
+        - Key: yor_trace
+          Value: 3c4f22c7-83be-4bc1-964f-b9d99f04212c
